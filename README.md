@@ -1,4 +1,4 @@
-ART4Me_Desktop
+ART4Me-Desktop
 ==============
 
 Thesis implementation, for EHG.
